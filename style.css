@@ -1,3 +1,9 @@
 body {
     background: #00C9F5;
 }
+
+.red-box {
+    color: red;
+    height: 500px;
+    width: 800px;
+}
