@@ -3,7 +3,7 @@ body {
 }
 
 .red-box {
-    color: red;
+    background-color: red;
     height: 500px;
     width: 800px;
 }
