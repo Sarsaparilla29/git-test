@@ -2,6 +2,12 @@ body {
     background: #00C9F5;
 }
 
+.box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
 .red-box {
     background-color: red;
     height: 500px;
